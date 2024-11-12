@@ -1,0 +1,17 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+   "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Aditya Dwi Cahyo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "nanoid": "^5.0.8"
+  }
+}
